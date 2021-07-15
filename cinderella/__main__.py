@@ -29,7 +29,7 @@ from cinderella.modules.connection import connect_button
 PM_START_TEXT = """
 _Hello_ *{}*
 _My name is_ *{}*\n_A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!_
-_Maintained by_ [{Rakesh}](tg://user?id={})
+_Maintained by_ [{Rakesh}](https://t.me/ValT_Aio)
 """
 
 
@@ -58,8 +58,8 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - ask my owner about me [here](tg://user?id={})
-⚡This is another owner [Here](tg://user?id={GingkaHangane})
+⚡I'm built in python3, using the python-telegram-bot library, and am fully opensource - ask my owner about me [here](https://t.me/ValT_Aio)
+⚡This is another owner [Here](https://t.me/GingkaHangane)
 """
 
 
